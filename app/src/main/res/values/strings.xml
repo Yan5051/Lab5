@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laba5</string>
+    <string name="pervBtn">1</string>
+    <string name="vtorBtn">2</string>
+    <string name="TretBtn">3</string>
+    <string name="pervStr">Первое уведомление вызвано</string>
+    <string name="vtorStr">Второе уведомление вызвано</string>
+    <string name="tretStr">Третье уведомление вызвано</string>
+</resources>
